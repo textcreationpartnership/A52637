@@ -1,0 +1,196 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A narrative of the late action between the French and confederate armies, on Saturday, the 1. of August, 1674 With an account of the grand officers, and numbers of common souldiers kill'd and taken prisoners on either side. Being two letters, the one from Brussels, and the other from Paris.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52637</idno>
+            <idno type="STC">Wing N190</idno>
+            <idno type="STC">ESTC R224108</idno>
+            <idno type="EEBO-CITATION">99834602</idno>
+            <idno type="PROQUEST">99834602</idno>
+            <idno type="VID">39104</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39104)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1817:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A narrative of the late action between the French and confederate armies, on Saturday, the 1. of August, 1674 With an account of the grand officers, and numbers of common souldiers kill'd and taken prisoners on either side. Being two letters, the one from Brussels, and the other from Paris.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Phillip Brooksby in VVest Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Concerning the battle of Seneffe, 1/11 August 1674.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>xxxtt2c</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seneffe, Battle of, 1674 --  Early works to 1800.</term>
+               <term>Dutch War, 1672-1678 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:39104:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 48 -->
+            <p>A NARRATIVE Of the late ACTION Between the FRENCH <hi>AND</hi> Confederate Armies, On <hi>Saturday,</hi> the 1. of <hi>Auguſt,</hi> 1674.</p>
+            <p>With an account of the Grand Officers, and Numbers of Common Souldiers kill'd and taken Priſoners on either ſide.</p>
+            <p>
+               <hi>Being two Letters, the one from</hi> Bruſſels, <hi>and the other from</hi> Paris.</p>
+            <p>LONDON, Printed for <hi>Phillip Brooksby</hi> in <hi>VVeſtſmithfield.</hi> 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter_from_Brussels">
+            <pb facs="tcp:39104:2"/>
+            <!-- PDF PAGE 49 -->
+            <pb facs="tcp:39104:2"/>
+            <!-- PDF PAGE 49 -->
+            <head>
+               <hi>Bruſsels,</hi> Auguſt, 3/13. 1674.</head>
+            <p>YEſterday in the Morning, his Highneſs the Prince of <hi>O<g ref="char:EOLhyphen"/>range,</hi> and General <hi>Souches,</hi> intending to paſs their Army over a ſmall River hard by the ſide of a <hi>VVood.</hi> After a conſiderable part of them were got over, a ſtrong par<g ref="char:EOLhyphen"/>ty of <hi>French</hi> Troops that lay in Ambuſcade in the aforeſaid wood, furiouſly ſallying forth, made an attacke upon Nine Regiments that were yet left behind, of whom Three Regiments were immediate<g ref="char:EOLhyphen"/>ly cut off, and almoſt totally deſtroyed, and the reſt forced to give ground, not able to withſtand the fury of the <hi>French</hi> onſet. The fight whereof obliged thoſe that were gone over the River to repair back again to their ſuccour; but in the mean time the French had made themſelves Maſters of the Prince of <hi>Oranges</hi> Carriages, which w<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> ſoon after retaken, and three times won, and loſt that day.</p>
+            <p>For the Prince of <hi>Conde</hi> ſending in another freſh party of ſix thouſand Horſe, which were met by ſome of our Troops of equal number and reſolution put them to a ſtand, and ſo ſuccours being ſent in from each ſide; both the armies became in ſhort time actu<g ref="char:EOLhyphen"/>ally engaged in a fierce and bloody battel <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the ground on which they fought was very rough and craggy, ſo that the Horſe though they omitted not to uſe their utmoſt endeavours could not do that ſervice as might otherwiſe have been expected, Our Rear-guard being Spaniſh Troops received moſt detriment, wherein the Dutch felt almoſt an equal ſhare, being forced to retreat towards the Imperialiſts, who compoſed the Van: The fight continued with much fierceneſs and obſtinacy on either ſide for many honrs, but at laſt the French retreated into their Trenches, and the confederate Armies after ſome purſuit, be took themſelves; the Prince of <hi>Orange</hi> to his former Poſt, and the Imperialiſts to <hi>Mons.</hi>
+            </p>
+            <p>Certain it is there has been a very great loſs of men on each ſide in this notable action, but as to the certain number report as 'tis uſual on ſuch occaſions, ſpeaks very variouſly, ſome tel<g ref="char:EOLhyphen"/>ling of twenty thouſand in all deſtroyed, others ſixteen thou<g ref="char:EOLhyphen"/>ſand, but the moſt moderate and probable account is ten thou<g ref="char:EOLhyphen"/>ſand, which we here do thus proportion ſix thouſand five hun<g ref="char:EOLhyphen"/>dred of the French, and three thouſand five hundred of our Con<g ref="char:EOLhyphen"/>federate Armies. Amongſt the former are great numbers of per<g ref="char:EOLhyphen"/>ſons of Quality, ſo that 'tis confidently reported that not lefs than four hundred of the French Nobility and Getlemen of note are cut off on our ſide, Monſieur De Cavier, and Baron de
+<pb n="4" facs="tcp:39104:3"/>
+               <!-- PDF PAGE 50 -->Beck are kill'd, Prince Charles of Lor<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Pio, and Count Weldeck wounded, the Prince of Salm, the Duke of Hol<g ref="char:EOLhyphen"/>ſtern, and the Count Marode, and the Marquiſed Aſſentar being all wounded were taken priſoners, of which we hear the laft is ſince dead of his wounds.</p>
+            <p>All reports agree that the Prince of Cr<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in all things both as to Conduct and Courage, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> admira<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Nor do we hear of any Commanders <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> their Duty, on this glorious Occaſion, particularly the <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Governour of <hi>Maestricht</hi> has ſignalized himſelf by extraordi<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of Cou<g ref="char:EOLhyphen"/>rage, which may ſilence their envious reports <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> endeavoured to fully his Honour about delivering up of that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own; our Governour, the Count <hi>Monterey</hi> by an Expreſs <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all the great Guns in this City to be often diſcharged, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſo <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mply ſung in all our Churches, and Victory to be burnt in all our Streets for Joy of our Succeſs in this Engagement.</p>
+         </div>
+         <div type="letter_from_Paris">
+            <head>
+               <hi>Paris</hi> 5/15. at 12 at Night.</head>
+            <p>AFter a long expectation we have certain advice of a Battel between our Forces, and the Confederate Troops, wherein the Diſpute has been very ſharp and bloody a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d yet we have much reaſon to believe that the succeſs i<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to our ſide, for that we are certainly informed, that our Troops have out of and utterly defeated the Enemies Rear-Guard, and becauſe we have taken Priſoners ſeveral of their principal Officers, As the Mar<g ref="char:EOLhyphen"/>queſs of <hi>Aſſentar,</hi> the Prince of <hi>Salme,</hi> and others, with a con<g ref="char:EOLhyphen"/>ſiderable number of Common Souldiers, a great deal of plunder, and ſome Cannon; The Prince of <hi>Con<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> was in extraordinary danger, being more than once diſmounted; and the Duke of <hi>Eng<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ien</hi> his Son wounded ſo. Likewiſe are Monſieur <hi>Rochfert,</hi> Monſieur <hi>Montal,</hi> the <hi>Chevaleir de Fourill<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> the Count of <hi>Luſſan<g ref="char:EOLhyphen"/>na,</hi> and divers other Commanders of Quality; and as we are told between 4000. and 5000. Common Souldiers loſt on our ſide, but neer twice as many on the Enemies.</p>
+            <p>We hourly expect to hear of a ſecond Engagement, the rather for that the Marſhal <hi>Turenna</hi> is, as we at told, forward on his March, to Joyn with, and Reinforce the Prince of <hi>Con<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> with his Troops.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:39104:3"/>
+            <!-- PDF PAGE 50 -->
+         </div>
+      </body>
+   </text>
+</TEI>
